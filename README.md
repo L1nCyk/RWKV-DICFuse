@@ -1,2 +1,2 @@
-# RWKV-DICFuse
+# RICEFuse
 Code coming soon...
